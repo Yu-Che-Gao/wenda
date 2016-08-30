@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe">
+   <Modules>
+    <Module Name="windowsformsapplication1.exe">
+     <Namespaces>
+      <Namespace Name="WindowsFormsApplication1">
+       <Types>
+        <Type Name="projectDataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet+loginDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet.loginDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet+loginpasswdDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet.loginpasswdDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet1'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet1+loginDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet1.loginDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet1+loginpasswdDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet1.loginpasswdDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+loginDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.loginDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+loginpasswdDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.loginpasswdDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+memberDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.memberDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+schoolnameDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.schoolnameDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+schoolteamDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.schoolteamDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="projectDataSet2+teamMemberDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">將 GetObjectData 的實作加入類型 'projectDataSet2.teamMemberDataTable'。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="更改密碼" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#insertNew(System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="更改密碼.cs" Line="133">傳遞給 '更改密碼.insertNew(string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'newPassword'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="每月統計" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#getTable(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="每月統計.cs" Line="124">傳遞給 '每月統計.getTable(string, string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'schoolName'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="每月統計.cs" Line="141">傳遞給 '每月統計.getTable(string, string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'schoolName'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="每月統計.cs" Line="128">傳遞給 '每月統計.getTable(string, string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'schoolName', 'teamName'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="每月統計.cs" Line="145">傳遞給 '每月統計.getTable(string, string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'schoolName', 'teamName'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getTeam(System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="每月統計.cs" Line="91">傳遞給 '每月統計.getTeam(string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'schoolName'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="新增紀錄表" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#checkRepeat1(System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="新增紀錄表.cs" Line="214">傳遞給 '新增紀錄表.checkRepeat1(string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'school'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#checkRepeat2(System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="新增紀錄表.cs" Line="239">傳遞給 '新增紀錄表.checkRepeat2(string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'school', 'team'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#checkRepeat3(System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="新增紀錄表.cs" Line="264">傳遞給 '新增紀錄表.checkRepeat3(string, string)' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'team', 'member'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#get2()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="新增紀錄表.cs" Line="167">傳遞給 '新增紀錄表.get2()' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'this.schoolnameadd'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#get3()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\rce資料\耗材管理系統\wenda20160202\WindowsFormsApplication1\WindowsFormsApplication1" File="新增紀錄表.cs" Line="191">傳遞給 '新增紀錄表.get3()' 中的 'SQLiteCommand.CommandText.set(string)' 的查詢字串可能包含下列變數 'this.teamnameadd'。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmGetContext(System.IntPtr)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmGetContext(IntPtr)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmGetContext(IntPtr)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmGetConversionStatus(System.IntPtr,System.Int32&amp;,System.Int32&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmGetConversionStatus(IntPtr, ref int, ref int)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmGetConversionStatus(IntPtr, ref int, ref int)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmGetOpenStatus(System.IntPtr)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmGetOpenStatus(IntPtr)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmGetOpenStatus(IntPtr)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmReleaseContext(System.IntPtr,System.IntPtr)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmReleaseContext(IntPtr, IntPtr)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmReleaseContext(IntPtr, IntPtr)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmSetConversionStatus(System.IntPtr,System.Int32,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmSetConversionStatus(IntPtr, int, int)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmSetConversionStatus(IntPtr, int, int)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ImmSimulateHotKey(System.IntPtr,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">由於 '新增紀錄表.ImmSimulateHotKey(IntPtr, int)' 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2016-02-02 19:25:24Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">變更 P/Invoke '新增紀錄表.ImmSimulateHotKey(IntPtr, int)' 的存取範圍，它就無法再從其組件外部顯示。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="WindowsFormsApplication1.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2016-02-02 19:25:24Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>避免使用未呼叫的私用程式碼</Name>
+   <Description>有未呼叫的程式碼既不是外部可見的，也不是已知的執行階段進入點。如果此違規引發錯誤，請傳送問題報告給 Visual Studio 程式碼分析小組。</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>必須正確實作 ISerializable</Name>
+   <Description>如果類型可以指定為 ISerializable，它應該實作 GetObjectData。對於非密封類型，GetObjectData 方法應該可以由衍生類型呼叫和覆寫。</Description>
+   <Resolution Name="Default">將 GetObjectData 的實作加入類型 {0}。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>必須將 P/Invokes 移到 NativeMethods 類別</Name>
+   <Description>此類型包含擁有 DllImport 屬性的成員。擁有 DllImport 屬性的成員應該包含在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中。</Description>
+   <Resolution Name="Default">由於 {0} 是 P/Invoke 方法，因此它應該在名為 NativeMethods、SafeNativeMethods 或 UnsafeNativeMethods 的類別中定義。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401">
+   <Name>P/Invokes 不應該為可見的</Name>
+   <Description>Interop 層不應該為公用。DllImport 屬性不應該套用至可公開存取的成員 (public 或 protected)。</Description>
+   <Resolution Name="Default">變更 P/Invoke {0} 的存取範圍，它就無法再從其組件外部顯示。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182209.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">CriticalError</MessageLevel>
+   <File Name="interoperabilityrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="必須檢視 SQL 查詢中是否有安全性弱點" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>必須檢視 SQL 查詢中是否有安全性弱點</Name>
+   <Description>根據使用者輸入建構而成的 SQL 命令字串容易受到 SQL 插入式攻擊的威脅。Microsoft SQL Server 和其他資料庫伺服器支援預存程序和參數化 SQL 查詢，可減少插入式攻擊的風險。</Description>
+   <Resolution Name="WithNonLiterals">傳遞給 {1} 中的 {0} 的查詢字串可能包含下列變數 {2}。如果這其中任何變數來自使用者輸入，請考慮使用預存程序或參數化 SQL 查詢，而不要用字串串連的方式建立查詢。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">分類</String>
+  <String Key="Certainty">確實性</String>
+  <String Key="CollapseAll">全部摺疊</String>
+  <String Key="CheckId">檢查 ID</String>
+  <String Key="Error">錯誤</String>
+  <String Key="Errors">錯誤</String>
+  <String Key="ExpandAll">全部展開</String>
+  <String Key="Help">說明</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">訊息</String>
+  <String Key="LocationNotStoredInPdb">[位置未儲存在 PDB]</String>
+  <String Key="Project">專案</String>
+  <String Key="Resolution">解析度</String>
+  <String Key="Rule">規則</String>
+  <String Key="RuleFile">規則檔</String>
+  <String Key="RuleDescription">規則描述</String>
+  <String Key="Source">來源</String>
+  <String Key="Status">狀態</String>
+  <String Key="Target">目標</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">程式碼分析報告</String>
+ </Localized>
+</FxCopReport>

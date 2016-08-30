@@ -1,0 +1,292 @@
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\roger\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\roger\Documents\Visual Studio 2015\Projects\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda5\wenda2\wenda2\wenda\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda20160203\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda20160203\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda20160203\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160203\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda20160214\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.main.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda20160218\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.alertForm.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.alertForm.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.main.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda20160229\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.alertForm.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.main.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系統登入.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\rce資料\耗材管理系統\wenda20160317\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\文大運動傷害防護系統.exe.config
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.accdb
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\project.mdb
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\文大運動傷害防護系統.exe
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\文大運動傷害防護系統.pdb
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.alertForm.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.main.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.更改密碼.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新增紀錄表.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.查詢.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.每月統計.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\文大運動傷害防護系統.exe
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\文大運動傷害防護系統.pdb
+C:\Users\Paster\Desktop\wenda\source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
